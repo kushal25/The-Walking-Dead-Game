@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PlayerLevel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PlayerLevel\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PlayerLevel()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PlayerLevel.\r\n\ \r\n
+comment2.params=item
+comment2.target=void\ addItem(WorldItem)
+comment3.params=item
+comment3.target=void\ removeItem(WorldItem)
+comment4.params=
+comment4.target=WorldItem\ getLevelBackground()
+comment5.params=
+comment5.target=WorldItem\ getAllLevelBoosters()
+numComments=6

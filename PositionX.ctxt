@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PositionX
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ColorBrick\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=t
+comment1.target=PositionX(IPosition)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=java.lang.String\ getPosition()
+comment4.params=s
+comment4.target=void\ setPosition(int)
+numComments=5

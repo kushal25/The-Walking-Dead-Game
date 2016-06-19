@@ -1,0 +1,7 @@
+Simplicity
+
+This week was highly productive in terms of committing features and finishing various backlogs. The team members have finished implementing their respective design patterns. This was the highlight of the week. We also solved various small bugs.
+
+The game is very simple to understand. It's all about survival. The Game Menu Screen helps the player to understand the controls required in the game. The difficulty in the game increases with time, making the player comfortable to adapt to increase in difficulty level. To keep the game interesting, we provide the player with a normal gun and a rocket shooter. Rocket shooter has a high damage rate, that can kill multiple zombies in one go if shot properly.
+
+We have been very specific in selecting background music and special sound effects. This is important to keep the player engaged and give him an actual feel of surviving a zombie apocalypse. We have included few powerups in the form of lives and bullets to give the player a chance to increase survival time. Rather than implementing levels, we decided to have a wave of zombie attacks. This way the player wouldn't recognize the difficulty level increasing with increase in game levels.

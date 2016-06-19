@@ -1,0 +1,7 @@
+Simplicity
+
+As mentioned about the two approaches in the previous submission, after research, the team has finalized an approach. As much as we want to incorporate 3 Dimensional illusion, we want to keep the game simple and make sure design patterns are implemented properly. So, we decided to move the background as the player moves along. But we don't want this movement to be infinite because this defeats the purpose of the game theme which is the survival. So the hero has restricted space to move in all four directions. 
+
+This week bring us closer to finishing off level one. All team members have started implementing design patterns and each module is being integrated and tested with others in the team. Since everything was pre-planned properly the team didn't face any issues with code commits or in understanding the simplicity of the game.
+
+This week we designed the game Menu screen with a background theme. We also added a background music in the game to keep the users engaged. Once we finish development and testing of level one, we would move to implement other levels by increasing the difficulty level but still keeping the game simple to understand.

@@ -1,0 +1,41 @@
+XP value of the team – Communication
+
+At the beginning of a team work, all the team members always need a few conversations to
+
+have a good idea of where each other’s understanding of the project is. A good thing is the
+
+project is about making a game that implements patterns, and by sharing the experience and
+
+opinions on modern or retro games, my teammates all provided potential ideas of what game
+
+we should make. However, the difficulty is we lack the knowledge of relating game features and
+
+design patterns, especially without having decided what game we would make in the project.
+
+We then started to understand the project from the beginning, to pay more attention to the
+
+project requirements. Almost everyone is helping everyone realize details in the project
+
+requirements and submission checklists. And we finally realized the two goals of this project: to
+
+use the design patterns properly, and to create interesting and fun features in the game that
+
+implement those design patterns.
+
+Another issue we encountered is, we wanted to narrow down the game engines we could use
+
+and choose the best one for this project. There are free game engines with visual design
+
+available such as Unity with C#, and Amazon Lumberyard that uses C++ as its background
+
+processing language. However, there is a learning curve for these tools that specifically builds
+
+AAA games, which will complicate the project deeply. Above all, the most important thing is that
+
+it’s even more difficult to apply design patterns in these engines that mostly use visual scripting.
+
+Among the game ideas we had, after having decided to use Greenfoot as our game engine, we
+
+are going to study and apply 5 patterns for the game as for now. They are Observer, Command,
+
+Factory, State, and Decorator.

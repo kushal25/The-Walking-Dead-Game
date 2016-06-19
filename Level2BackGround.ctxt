@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Level2BackGround
+comment1.params=
+comment1.target=java.lang.String\ WorldBackGroundImgName()
+comment2.params=
+comment2.target=int\ PlayerLevel()
+comment3.params=
+comment3.target=int\ PlayerScore()
+comment4.params=
+comment4.target=int\ scoreThresholdForNextLevel()
+comment5.params=
+comment5.target=BoosterPack[]\ getLevelBoosters()
+numComments=6

@@ -1,0 +1,29 @@
+In the third weekly meeting, as we have decided what feature each team member has to
+
+implement, everyone is constantly committing codes on github. However, as expected,
+
+everyone also encountered several obstacles on the way.
+
+First of all, there is a minor problem regarding the following up with github. Whenever someone
+
+pushed new code into the project, the “Greenfoot.project” file comes with any Greenfoot
+
+project gets changed, too. After each one of us tried their way to go around this, we’ve found
+
+the solution and were able to proceed.
+
+The major problem for each team member is to apply design patterns into their features in the
+
+game. With the team lacking experience of game developing of any kind, the only breakpoint for
+
+this problem is to further understand what the patterns are most suit for. On top of this, there
+
+seemed to be another major problem for some of the team members. When their own classes’
+
+objects have to communicate with other people’s classes, the team wasn’t discussing the design
+
+of each one’s class API very well. However, the team uses Google hangouts for any instant
+
+discussion. Every member responds in time, provides explanations and future plans to the
+
+project, specifically regarding the code changes. So the whole progress gets to go on.

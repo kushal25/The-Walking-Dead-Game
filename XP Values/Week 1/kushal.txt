@@ -1,0 +1,11 @@
+Simplicity
+
+We are building a simple 2D game and giving it a theme of The Walking Dead. The primary idea of the game involves surivial of the individual(player) by killing the zombies. Our objective is to learn to implement design patterns and advocate Extreme Programming/Lean values during the course of building the game. Besides implementing the design patterns, we still want to keep the game interesting for everyone to play with. We plan to implement the design patterns first and then improve on the features and gaming levels. 
+
+We have divided the features and tasks in modules and all members of the group are assigned to modules to work on. To maintain transparency in the team, we use an online project management tool called waffle.io and  github, which is an online project hosting platform where we use git to push and pull the code. 
+
+Our approach is setting small goals to achieve the big goal. We plan to add a feature in the game, commit it and do a testing of the feature. Once the testing is successful, we plan to move to build another feature.
+
+The end result of this project is to learn the ability to use design patterns and XP values in building a project. We want to be proud of building a game which keeps every player engaged.
+
+

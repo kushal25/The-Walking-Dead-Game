@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PulledTrigger
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PulledTrigger\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ PulledTrigger\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=bpRef\ hRef
+comment2.target=PulledTrigger(Arsenal,\ Hero)
+comment3.params=
+comment3.target=void\ fire()
+comment4.params=newAmmo
+comment4.target=void\ addAmmo(int)
+comment5.params=newClip
+comment5.target=void\ addClip(int)
+comment6.params=
+comment6.target=void\ reload()
+numComments=7

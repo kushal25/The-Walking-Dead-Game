@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Bullets
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bullets\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=boolean\ getSetRot()
+comment2.params=newRot
+comment2.target=void\ setSetRot(int)
+comment2.text=\r\n\ setSetRot\ -\ set\ the\ rotation\ of\ the\ bullet,\ mark\ rotation\ as\ set\r\n\r\n\ @param\ \ newRot\ \ \ new\ rotation\r\n
+comment3.params=
+comment3.target=int\ getSpeed()
+comment3.text=\r\n\ getSpeed\ -\ get\ the\ speed\ of\ this\ bullet,\ default\ is\ 15\r\n
+comment4.params=s
+comment4.target=void\ setSpeed(int)
+comment4.text=\r\n\ setSpeed\ -\ set\ the\ speed\ of\ the\ bullet\r\n\r\n\ @param\ \ y\ \ \ new\ speed\r\n
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=int\ GetBulletCount()
+comment7.params=bulletCount
+comment7.target=void\ SetBulletCount(int)
+comment8.params=zombie
+comment8.target=void\ Notify(greenfoot.Actor)
+numComments=9

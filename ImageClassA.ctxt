@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ImageClassA
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ImageClassA\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ImageClassA()
+comment2.params=zom
+comment2.target=java.lang.String\ visit(Zombie)
+comment3.params=zomn
+comment3.target=java.lang.String\ visit(ZombieNew)
+numComments=4

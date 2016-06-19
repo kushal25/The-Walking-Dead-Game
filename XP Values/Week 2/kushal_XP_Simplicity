@@ -1,0 +1,9 @@
+Simplicity
+
+The development for the game has started. The team came up with two approaches on how we want to go about building the game. First approach is a simple level by level approach where the player has to clear each level by killing a certain amount of zombies to go the next level. This is a very simple and traditional approach where with each level the difficulty increases. Second approach is more of how current games are developed where the player can move around, giving it a 3 dimension illusion. 
+
+One team member is assigned the task of trying out if approach 2 is possible in the limited time what we have, else approach 1 is more simple and easy to implement.
+
+In this week, we decided to go with Divide and Conquer Strategy. Each team member is assigned a feature to work on. All required features for level one are divided among all members of the group. We plan to integrate all these components, test it and make functionality of level 1 working. This will be our first milestone.
+
+Once we accomplish this, building other levels by increasing the difficulty level will be the goal.

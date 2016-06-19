@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WeaponState
+comment1.params=
+comment1.target=void\ fire()
+comment2.params=ammo
+comment2.target=void\ addAmmo(int)
+comment3.params=clip
+comment3.target=void\ addClip(int)
+comment4.params=
+comment4.target=void\ reload()
+numComments=5
